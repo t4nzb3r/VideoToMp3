@@ -1,0 +1,6 @@
+d:\users\admin\documents\visual studio 2017\Projects\VideoToMp3\VideoToMp3\bin\Debug\VideoToMp3.exe.config
+d:\users\admin\documents\visual studio 2017\Projects\VideoToMp3\VideoToMp3\bin\Debug\VideoToMp3.exe
+d:\users\admin\documents\visual studio 2017\Projects\VideoToMp3\VideoToMp3\bin\Debug\VideoToMp3.pdb
+d:\users\admin\documents\visual studio 2017\Projects\VideoToMp3\VideoToMp3\obj\Debug\VideoToMp3.csprojResolveAssemblyReference.cache
+d:\users\admin\documents\visual studio 2017\Projects\VideoToMp3\VideoToMp3\obj\Debug\VideoToMp3.exe
+d:\users\admin\documents\visual studio 2017\Projects\VideoToMp3\VideoToMp3\obj\Debug\VideoToMp3.pdb
